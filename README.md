@@ -1,4 +1,4 @@
-# Projeto_Calculo_IR
+# Projeto Cálculo INSS - Contribuição
 
 Neste projeto web é possível realizar o cálculo do recolhimento do INSS de acordo com a renda mensal.
 
